@@ -2,7 +2,7 @@
 // @name            Kaakon Viestintä CMS: Subscriber only articles lock icon
 // @name:fi         Kaakon Viestintä CMS: Lukko-ikoni vain tilaajille tarkoitetuissa artikkeleissa
 // @namespace       https://www.kissakala.fi
-// @version         1.0.0
+// @version         1.0.1
 // @description     Shows lock icon next to the subscriber only articles in Kaakon Viestintä CMS. Only Länsi-Savo, Itä-Savo and Kouvolan Sanomat supported, for now.
 // @description:fi  Näyttää lukko-ikonin vain tilaajien luettavissa olevien artikkelien kohdalla Länsi-Savon, Itä-Savon ja Kouvolan Sanomien verkkopalveluissa
 // @author          Jani Haiko
@@ -12,6 +12,10 @@
 // @grant           none
 // @run-at          document-end
 // @iconURL         https://www.lansi-savo.fi/favicon.ico
+// @source          https://github.com/ojaha065/subscriberLockIcon
+// @supportURL      https://github.com/ojaha065/subscriberLockIcon/issues
+// @updateURL       https://github.com/ojaha065/subscriberLockIcon/raw/main/kaakko.user.js
+// @downloadURL     https://github.com/ojaha065/subscriberLockIcon/raw/main/kaakko.user.js
 // ==/UserScript==
 
 (function() {
